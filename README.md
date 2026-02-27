@@ -5,7 +5,7 @@ An end-to-end retail data analytics project identifying sales funnel drop-offs, 
 ## 🎯 Project Objective
 The goal of this project is to optimize the sales funnel for a retail company by identifying drop-off points, analyzing turnaround time (TAT) bottlenecks, and evaluating customer sentiment (NPS) across four major store locations (Bangalore, Chennai, Delhi, Mumbai).
 
-**Live Interactive Dashboard:** [Insert Your Looker Studio Link Here]
+**Live Interactive Dashboard:** https://lookerstudio.google.com/reporting/e2d6829b-30b5-4f32-835f-587662ddfd88
 
 ## 🛠️ Tools Used
 * **Data Cleaning & Feature Engineering:** Google Sheets (Formulas, Data Validation)
